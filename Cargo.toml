@@ -1,0 +1,15 @@
+[package]
+name = "vectormachinedanknn"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+linfa = "0.7.1"
+linfa-svm = "0.7.2"
+linfa-nn = "0.7.1"
+linfa-clustering = "0.7.1"
+ndarray = "0.15.6"
+csv = "1.1"
+rand = "0.9.0"
+plotters = "0.3.0"
+
